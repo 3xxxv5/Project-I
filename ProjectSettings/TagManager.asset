@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - refractObj
+  - reflectObj
+  - rayEmitter
+  - budCamAnim
+  - UI
+  - light
+  - fixReflectObj
+  - Wood
+  - exitPickText
+  - ground
+  - climbSphere
+  - fragment
+  - wuzei
+  - chocolateFrog
+  - electric
+  - Sea
+  - rotateBtn
+  - turnBtn
+  - coin
+  - refractRotateBtn
+  - dragonBlood
+  - dragon
+  - fixedTurnBtn
+  - fixedRotateBtn
+  - ballVanishTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - tower
+  - reflectObj
+  - refractObj
+  - bud
+  - ball
+  - dragon
+  - coin
+  - doorChips
+  - 
+  - monster
+  - wall
+  - ImageEffect
+  - DontAvoid
+  - chips
+  - centerBall
+  - qteTrigger
+  - battery
+  - bullet
+  - bigBullet
+  - wuzei
+  - rockLibrary
+  - grass
+  - sphereBoard
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
